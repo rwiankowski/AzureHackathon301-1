@@ -1,21 +1,21 @@
 # Azure Hackathon for AZ-301 Part 1
 
-## Why?
+## Why
 
 To grown and develop Azure skills towards needed for AZ-301 certification.
 
-## How?
+## How
 
 By collaborating and discussing different ideas across teams.
 
-## What?
+## What
 
 Solve a series of three two-part challenges.
 
 Challenge 1:
 
-* Part a  - Retreive a KeyVault secret while logged into a Virtual Machine
-* Part b - Configurate an application which retreives a secret from the KeyVault
+* Part a  - Retrieve a KeyVault secret while logged into a Virtual Machine
+* Part b - Configure an application which retrieves a secret from the KeyVault
 
 Challenge 2:
 
