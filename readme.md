@@ -10,12 +10,20 @@ By collaborating and discussing different ideas across teams.
 
 ## What?
 
-Solve a series of three two-part challenges:
+Solve a series of three two-part challenges.
 
-1a - Retreive a KeyVault secret while logged into a Virtual Machine
-1b - Configurate an application which retreives a secret from the KeyVault
+Challenge 1:
 
-2a - Deploy a Web Application to Azure App Service with Azure SQL
-2b - Secure the deployment with Virtual Network integration and AzureAD credentials
+* Part a  - Retreive a KeyVault secret while logged into a Virtual Machine
+* Part b - Configurate an application which retreives a secret from the KeyVault
 
-3 - Automate the outcome of 2b with a CI/CD pipeline
+Challenge 2:
+
+* Part a - Deploy a Web Application to Azure App Service with Azure SQL
+* Part b - Secure the deployment with Virtual Network integration and AzureAD credentials
+
+Challenge 3:
+
+* 3 - Automate the outcome of 2b with a CI/CD pipeline
+
+For details see challenge specific folders in this repo.
